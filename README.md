@@ -1,16 +1,103 @@
-### Hi there 👋
+# Oi, eu sou Josué! :mask:
 
-<!--
-**jscostaBR/jscostaBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Osasco, SP.
 
-Here are some ideas to get you started:
+Engenheiro da Computação em formação pela Univesp. :mortar_board:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Development Jr. :computer:
+
+Gosto muito de programar, principalmente, para web. Recentemente, migrei da área fiscal (fui analista fiscal) para TI e estou feliz por isso.
+
+```javascript
+let jscostaBR = {
+ pessoal: {
+  nome: "Josué de Souza Costa",
+  pronome: [
+   "ele",
+   "dele"
+  ],
+  cidade: "Osasco, SP, Brasil",
+  email: "josue_scosta 'arroba' hotmail.com"
+ },
+ profissional: {
+  empregadoAtualmente: true,
+  empregoFormal: false,
+  cargo: "Desenvolvedor Full Stack Jr.",
+  empresa: "Freelancer"
+ },
+ capacitação: {
+  cursos: {
+   Bootcamp_IGTI_Full_Stack: {
+    ano: 2020,
+    duração: "3 meses",
+    status: "Em execução",
+    aprendendo: "React"
+   }
+  }
+ },
+ interesses: [
+  "linux",
+  "AWS",
+  "cloud",
+  "web"
+ ],
+ arquitetura: [
+  "SPA",
+  "MVC"
+ ],
+ linguagens: {
+  marcação: "HTML",
+  folha_de_estilo: "CSS",
+  programação: [
+   "javascript"
+  ]
+ },
+ tecnologias: {
+  design: [
+   "Adobe Photophop",
+   "Adobe Illustrator"
+  ],
+  frontEnd: {
+   css: [
+    "Bootstrap",
+    "Materialize",
+    "SASS",
+    "Vuetify"
+   ],
+   js: [
+    "Cypress",
+    "Vue"
+   ]
+  },
+  backEnd: {
+   js: [
+    "Express",
+    "Node"
+   ]
+  },
+  DB: {
+   SQL: [
+    "MySQL"
+   ],
+   noSQL: [
+    "MongoDB"
+   ]
+  },
+  OS: [
+   "Windows",
+   "Linux Ubuntu"
+  ],
+  devOps: [
+   "Nginx",
+   "AWS",
+   "Heroku"
+  ],
+  tools: [
+   "Git",
+   "Github",
+   "Markdown",
+   "Visual Studio Code"
+  ]
+ },
+}
+```
