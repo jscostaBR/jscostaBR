@@ -4,7 +4,7 @@
 
 Engenheiro da Computação em formação pela Univesp. :mortar_board:
 
-Full Stack Development Jr. :computer:
+Desenvolvedor Full Stack Jr. :computer:
 
 Gosto muito de programar, principalmente, para web. Recentemente, migrei da área tributária (fui analista fiscal) para TI e estou feliz por isso.
 
