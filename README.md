@@ -95,6 +95,7 @@ let jscostaBR = {
   tools: [
    "Git",
    "Github",
+   "Insomnia",
    "Markdown",
    "Visual Studio Code"
   ]
