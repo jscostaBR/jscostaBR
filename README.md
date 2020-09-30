@@ -48,6 +48,7 @@ let jscostaBR = {
  linguagens: {
   marcação: "HTML",
   folha_de_estilo: "CSS",
+  consulta: "SQL",
   programação: [
    "javascript"
   ]
