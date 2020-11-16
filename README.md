@@ -22,7 +22,7 @@ let jscostaBR = {
  profissional: {
   empregadoAtualmente: true,
   empregoFormal: false,
-  cargo: "Desenvolvedor Full Stack Jr.",
+  cargo: "Desenvolvedor Front-End Jr.",
   empresa: "Freelancer"
  },
  capacitação: {
