@@ -8,6 +8,9 @@ Desenvolvedor Front-End Jr. :computer:
 
 Gosto muito de programar, principalmente, para web. Recentemente, migrei da área tributária (fui analista fiscal) para TI e estou feliz por isso.
 
+Portfólio:
+- Watch.js: https://github.com/jscostaBR/watch.js
+
 ```javascript
 let jscostaBR = {
  pessoal: {
