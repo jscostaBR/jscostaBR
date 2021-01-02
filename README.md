@@ -8,10 +8,14 @@ Desenvolvedor Front-End Jr. :computer:
 
 Gosto muito de programar, principalmente, para web. Recentemente, migrei da área tributária (fui analista fiscal) para TI e estou feliz por isso.
 
+[![jscostaBR's github stats](https://github-readme-stats.vercel.app/api?username=jscostaBR&&show_icons=true&&theme=dark&title_color=2196F3&icon_color=03A9F4&text_color=607D8B&bg_color=151515&locale=pt-br)](https://github.com/jscostaBR)
+
 Portfólio:
 - BaseConverter.js: https://github.com/jscostaBR/baseconverter.js
 - Pomodoro.js: https://github.com/jscostaBR/pomodoro.js
 - Watch.js: https://github.com/jscostaBR/watch.js
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jscostaBR)](https://github.com/jscostaBR)
 
 ```javascript
 let jscostaBR = {
