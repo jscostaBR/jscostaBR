@@ -10,7 +10,7 @@ Gosto muito de programar, principalmente, para web. Recentemente, migrei da áre
 
 Portfólio:
 - BaseConverter.js: https://github.com/jscostaBR/baseconverter.js
-- Pomodoro.js: https://github.com/jscostaBR/jscostaBR
+- Pomodoro.js: https://github.com/jscostaBR/pomodoro.js
 - Watch.js: https://github.com/jscostaBR/watch.js
 
 ```javascript
