@@ -1,15 +1,3 @@
-# Pinned
-
-<a href="https://github.com/jscostaBR/baseconverter.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jscostaBR&repo=baseconverter.js" />
-</a>
-<a href="https://github.com/jscostaBR/pomodoro.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jscostaBR&repo=pomodoro.js" />
-</a>
-<a href="https://github.com/jscostaBR/watch.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jscostaBR&repo=watch.js" />
-</a>
-
 # Perfil
 
 ## Oi, eu sou Josué! :mask:
@@ -22,14 +10,11 @@ Desenvolvedor Front-End Jr. :computer:
 
 Gosto muito de programar, principalmente, para web. Recentemente, migrei da área tributária (fui analista fiscal) para TI e estou feliz por isso.
 
-[![jscostaBR's github stats](https://github-readme-stats.vercel.app/api?username=jscostaBR&&show_icons=true&&theme=dark&title_color=2196F3&icon_color=03A9F4&text_color=607D8B&bg_color=151515&locale=pt-br)](https://github.com/jscostaBR)
-
 Portfólio:
 - BaseConverter.js: https://github.com/jscostaBR/baseconverter.js
+- BorderRadius,js: https://github.com/jscostaBR/borderradius.js
 - Pomodoro.js: https://github.com/jscostaBR/pomodoro.js
 - Watch.js: https://github.com/jscostaBR/watch.js
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jscostaBR)](https://github.com/jscostaBR)
 
 ```javascript
 let jscostaBR = {
@@ -126,3 +111,7 @@ let jscostaBR = {
  },
 }
 ```
+
+[![jscostaBR's github stats](https://github-readme-stats.vercel.app/api?username=jscostaBR&&show_icons=true&&theme=dark&title_color=2196F3&icon_color=03A9F4&text_color=607D8B&bg_color=151515&locale=pt-br)](https://github.com/jscostaBR)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jscostaBR)](https://github.com/jscostaBR)
