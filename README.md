@@ -1,5 +1,3 @@
-# Perfil
-
 ## Oi, eu sou Josué! :mask:
 
 ## Osasco, SP.
@@ -12,7 +10,7 @@ Gosto muito de programar, principalmente, para web. Recentemente, migrei da áre
 
 Portfólio:
 - BaseConverter.js: https://github.com/jscostaBR/baseconverter.js
-- BorderRadius,js: https://github.com/jscostaBR/borderradius.js
+- BorderRadius.js: https://github.com/jscostaBR/borderradius.js
 - Pomodoro.js: https://github.com/jscostaBR/pomodoro.js
 - Watch.js: https://github.com/jscostaBR/watch.js
 
@@ -38,8 +36,9 @@ let jscostaBR = {
    Bootcamp_IGTI_Full_Stack: {
     ano: 2020,
     duração: "3 meses",
-    status: "Em execução",
-    aprendendo: "React"
+    status: "Concluído",
+    aprendendo: "React",
+    nível: "básico"
    }
   }
  },
